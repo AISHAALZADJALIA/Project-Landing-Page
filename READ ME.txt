@@ -1,0 +1,21 @@
+MY PROJECT IS ABOUT SALE CAR 
+AND THE WAY I CONTACT WITH CUSTOMER
+WITH BULLDING AN EFFICIENT WEB SITE THAT CUSTOMER WILL CONTACT WITH ME AN EASY WAY
+IN LINE 12 IN HTML I WRITE AN CODE FOR SHOWING DATA SO WHEN YOU CLICK IN CONTACT US IN 
+You can call us or send message on Whatsapp SO THERE WILL ONE ALERT WILL SHOW YOU
+
+******************
+in down in CONTACTcutomer must fill all details if the cutomer have enter more than 8 digit for 
+phone number he will se alert from java script that he has been add more or 
+less than 8 digit of phone number
+***********************************************************
+the website is flexibale for all screen type of device 
+***************************
+when cutomer move form section to another so navbar will be highlighted auto.
+**************************************************
+i selected one background color the resaon of that the color look more efiicent
+ with my animation
+***********************************
+/*getBoundingClientRect()
+i do it in css and html at end 
+
